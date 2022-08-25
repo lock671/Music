@@ -1,4 +1,4 @@
-## Manual installation
+##  Manual installation
 
 ```bash
 
@@ -20,4 +20,6 @@ module.exports = {
 };
 
 ```
+
+## Link: https://discord.gg/cR2gqGQzga
 
